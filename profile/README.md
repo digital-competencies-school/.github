@@ -1,3 +1,3 @@
-# Школа разработки PromSvyazDev
+# Школа разработки DigitalCompetenciesSchool
 
 Описание будет позже
